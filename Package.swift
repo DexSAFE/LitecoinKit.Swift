@@ -14,7 +14,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/DexSAFE/BitcoinCore.Swift.git", .upToNextMajor(from: "3.0.0")),
+        .package(url: "https://github.com/DexSAFE/BitcoinCore.Swift.git", .upToNextMajor(from: "2.2.0")),
         .package(url: "https://github.com/greymass/swift-scrypt.git", from: "1.0.0"),
         .package(url: "https://github.com/DexSAFE/HsToolKit.Swift.git", .upToNextMajor(from: "2.0.5")),
     ],
